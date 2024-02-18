@@ -18,7 +18,7 @@ export default function Sidebar(props) {
           textAlign: 'center',
           fontFamily: 'cursive',
           fontWeight: '1000'
-        }}>FACE RECOG</span>
+        }}>FACE DETECT</span>
       </NavLink>
       <hr style={{ marginTop: '0px' }}></hr>
       <ul className="nav nav-pills flex-column mb-auto">
