@@ -23,12 +23,12 @@ export default function Navbar(props) {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="https://www.google.com/" style={{ color: 'white' , fontSize:'30px' }}>
+              <a className="nav-link" href="https://github.com/SashrikGupta" style={{ color: 'white' , fontSize:'30px' }}>
               Git link
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="https://www.google.com/" style={{ color: 'white' , fontSize:'30px' }}>
+              <a className="nav-link" href="https://github.com/SashrikGupta" style={{ color: 'white' , fontSize:'30px' }}>
               about 
               </a>
             </li>
